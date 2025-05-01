@@ -1,8 +1,5 @@
-git add requirements.txt
-git commit -m "Add TensorFlow to requirements"
-git push
 import streamlit as st
-import tensorflow as tf
+import tensorflow
 from tensorflow import keras
 import numpy as np
 import pandas as pd
